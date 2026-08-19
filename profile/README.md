@@ -1,5 +1,5 @@
 <div align="center">
- <img src="document .github/profile/logo.jpeg" alt="PetLink Logo" width="150" style="border-radius: 20px;">
+ <img src=".github/profile/logo.jpeg" alt="PetLink Logo" width="150" style="border-radius: 20px;">
   
   # 🐾 PetLink
   
